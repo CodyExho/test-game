@@ -1,0 +1,20 @@
+version: '3.4'
+
+services:
+    db:
+        hostname: db
+        image: mongo
+        environment:
+            - MONGO_INITDB_DATABASE=game
+
+    game-api:
+        depends_on:
+            - db
+        restart: always
+        image: game-api
+        build:
+            context: .
+            dockerfile: Game.Api/Dockerfile
+        ports:
+            - "80:80"
+            - "443:443"

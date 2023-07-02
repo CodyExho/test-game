@@ -1,0 +1,17 @@
+C:\Users\humen\source\repos\Game.Api\Game.Operations\bin\Debug\net6.0\Game.Operations.deps.json
+C:\Users\humen\source\repos\Game.Api\Game.Operations\bin\Debug\net6.0\Game.Operations.dll
+C:\Users\humen\source\repos\Game.Api\Game.Operations\bin\Debug\net6.0\Game.Operations.pdb
+C:\Users\humen\source\repos\Game.Api\Game.Operations\bin\Debug\net6.0\Game.Common.dll
+C:\Users\humen\source\repos\Game.Api\Game.Operations\bin\Debug\net6.0\Game.DataAccess.dll
+C:\Users\humen\source\repos\Game.Api\Game.Operations\bin\Debug\net6.0\Game.Common.pdb
+C:\Users\humen\source\repos\Game.Api\Game.Operations\bin\Debug\net6.0\Game.DataAccess.pdb
+C:\Users\humen\source\repos\Game.Api\Game.Operations\obj\Debug\net6.0\Game.Operations.csproj.AssemblyReference.cache
+C:\Users\humen\source\repos\Game.Api\Game.Operations\obj\Debug\net6.0\Game.Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humen\source\repos\Game.Api\Game.Operations\obj\Debug\net6.0\Game.Operations.AssemblyInfoInputs.cache
+C:\Users\humen\source\repos\Game.Api\Game.Operations\obj\Debug\net6.0\Game.Operations.AssemblyInfo.cs
+C:\Users\humen\source\repos\Game.Api\Game.Operations\obj\Debug\net6.0\Game.Operations.csproj.CoreCompileInputs.cache
+C:\Users\humen\source\repos\Game.Api\Game.Operations\obj\Debug\net6.0\Game.Operations.csproj.CopyComplete
+C:\Users\humen\source\repos\Game.Api\Game.Operations\obj\Debug\net6.0\Game.Operations.dll
+C:\Users\humen\source\repos\Game.Api\Game.Operations\obj\Debug\net6.0\refint\Game.Operations.dll
+C:\Users\humen\source\repos\Game.Api\Game.Operations\obj\Debug\net6.0\Game.Operations.pdb
+C:\Users\humen\source\repos\Game.Api\Game.Operations\obj\Debug\net6.0\ref\Game.Operations.dll

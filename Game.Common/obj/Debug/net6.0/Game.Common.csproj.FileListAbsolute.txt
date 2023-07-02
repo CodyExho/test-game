@@ -1,0 +1,15 @@
+C:\Users\humen\source\repos\Game.Api\Game.Common\bin\Debug\net6.0\Game.Common.deps.json
+C:\Users\humen\source\repos\Game.Api\Game.Common\bin\Debug\net6.0\Game.Common.dll
+C:\Users\humen\source\repos\Game.Api\Game.Common\bin\Debug\net6.0\Game.Common.pdb
+C:\Users\humen\source\repos\Game.Api\Game.Common\bin\Debug\net6.0\Game.DataAccess.dll
+C:\Users\humen\source\repos\Game.Api\Game.Common\bin\Debug\net6.0\Game.DataAccess.pdb
+C:\Users\humen\source\repos\Game.Api\Game.Common\obj\Debug\net6.0\Game.Common.csproj.AssemblyReference.cache
+C:\Users\humen\source\repos\Game.Api\Game.Common\obj\Debug\net6.0\Game.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humen\source\repos\Game.Api\Game.Common\obj\Debug\net6.0\Game.Common.AssemblyInfoInputs.cache
+C:\Users\humen\source\repos\Game.Api\Game.Common\obj\Debug\net6.0\Game.Common.AssemblyInfo.cs
+C:\Users\humen\source\repos\Game.Api\Game.Common\obj\Debug\net6.0\Game.Common.csproj.CoreCompileInputs.cache
+C:\Users\humen\source\repos\Game.Api\Game.Common\obj\Debug\net6.0\Game.Common.csproj.CopyComplete
+C:\Users\humen\source\repos\Game.Api\Game.Common\obj\Debug\net6.0\Game.Common.dll
+C:\Users\humen\source\repos\Game.Api\Game.Common\obj\Debug\net6.0\refint\Game.Common.dll
+C:\Users\humen\source\repos\Game.Api\Game.Common\obj\Debug\net6.0\Game.Common.pdb
+C:\Users\humen\source\repos\Game.Api\Game.Common\obj\Debug\net6.0\ref\Game.Common.dll

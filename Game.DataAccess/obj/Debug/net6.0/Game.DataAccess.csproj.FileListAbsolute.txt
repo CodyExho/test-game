@@ -1,0 +1,12 @@
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\bin\Debug\net6.0\Game.DataAccess.deps.json
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\bin\Debug\net6.0\Game.DataAccess.dll
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\bin\Debug\net6.0\Game.DataAccess.pdb
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\obj\Debug\net6.0\Game.DataAccess.csproj.AssemblyReference.cache
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\obj\Debug\net6.0\Game.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\obj\Debug\net6.0\Game.DataAccess.AssemblyInfoInputs.cache
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\obj\Debug\net6.0\Game.DataAccess.AssemblyInfo.cs
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\obj\Debug\net6.0\Game.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\obj\Debug\net6.0\Game.DataAccess.dll
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\obj\Debug\net6.0\refint\Game.DataAccess.dll
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\obj\Debug\net6.0\Game.DataAccess.pdb
+C:\Users\humen\source\repos\Game.Api\Game.DataAccess\obj\Debug\net6.0\ref\Game.DataAccess.dll
